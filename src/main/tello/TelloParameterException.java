@@ -1,4 +1,4 @@
-package im.tello;
+package main.tello;
 
 public class TelloParameterException extends Exception {
 
